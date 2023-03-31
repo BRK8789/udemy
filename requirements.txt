@@ -1,6 +1,4 @@
-pandas
-numpy
 matplotlib
 matplotlib.pyplot
 seaborn
-python -m pip install --upgrade pip
+random
